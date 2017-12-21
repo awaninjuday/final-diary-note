@@ -1,0 +1,56 @@
+button{
+	color:blue;
+	font-size: 50px;
+	background-color: red;
+	border:none;
+}
+
+input{
+	font-size: 50px;
+}
+
+.text{
+	font-size: 50px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 30px;
+	color:red;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+#audio{
+	display: none;
+}
+
+.btn-back{
+    border: 1px solid #f00;
+    padding: 5px 20px 5px 20px;
+}
+
+ul{
+	list-style: none !important;
+}
+
+ul li{
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+    background: #f00;
+    color: #fff;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+ul li:hover{
+    background: blue;
+}
+
+
+ul li a{
+    color: #fff;
+}
